@@ -1,0 +1,118 @@
+[
+    {
+        "id": 1,
+        "name": "Classic white T-Shirt",
+        "price": 499,
+        "category": "t-shirts",
+        "description": "Premium quality white t-shirt made from 100% cotton. Perfect for casual wear and everyday comfort.",
+        "images": [
+            "https://image.hm.com/assets/hm/ca/f5/caf50af0756aedbd0e5803bcd9abeaa6b1eff249.jpg?imwidth=657",
+            "https://image.hm.com/assets/hm/0c/24/0c248ba666a2713077c98987935f1c299ee75c46.jpg?imwidth=657",
+            "https://image.hm.com/assets/hm/3a/e0/3ae02364582c1a6230437a44a2411caea7cc126d.jpg?imwidth=657"
+
+    
+        ],
+        "rating": 4.5,
+        "reviews": 128
+    },
+    {
+        "id": 2,
+        "name": "Slim Fit blue Jeans",
+        "price": 1299,
+        "category": "jeans",
+        "description": "Stylish slim fit blue jeans with stretch technology for maximum comfort and mobility.",
+        "images": [
+            "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw39e4216f/original/90_E78GAB5S0-ECDWA8_E904_10_Slim~FitJeans-Pants-Versace-online-store_0_2.jpg?sw=850&q=85&strip=true",
+            "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw641101b2/original/90_E78GAB5S0-ECDWA8_E904_14_Slim~FitJeans-Pants-Versace-online-store_0_2.jpg?sw=850&q=85&strip=true",
+            "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwb2b92ef4/original/90_E78GAB5S0-ECDWA8_E904_16_Slim~FitJeans-Pants-Versace-online-store_0_2.jpg?sw=1200&q=85&strip=true"
+        ],
+        "rating": 4.2,
+        "reviews": 86
+    },
+    {
+        "id": 3,
+        "name": "Black Hoodie",
+        "price": 899,
+        "category": "hoodies",
+        "description": "Warm and comfortable Black hoodie with front pocket and adjustable drawstrings.",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-P2-xB9aqtYogfdiLuOAtaA21pJwe-iXldzHqubpapEAS7M5xqT7Kwo-SzjXtpetAkLwUijMkq_Al3pj_TtgA6tcpb6yDdN4m2i-70w5EOnKt_OYLYMNsZA",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrTiN2Dozb7FqFf2OiRQHuQfPPl05ML6D_GbzXDRtJv1Mbwb5v2ZQrb1F16reMPMwAWSQ198HqIrM6wL9cwjPvwQulY1VsBszzSBPlaeL-VMPnl1dMwoON",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTXCPcD0gu0u51TYnLWsgRENISWMGW76iF1ITf-02rlZkRhHVExSxF7ZpkreOiO8RQAUf-7fppBi46C0-HussEDgdRpbqO3zaN5_Lf_1tH6fm-weJc0gGyd"
+        ],
+        "rating": 4.7,
+        "reviews": 215
+    },
+    {
+        "id": 4,
+        "name": "Casual Checkered Shirt",
+        "price": 799,
+        "category": "shirts",
+        "description": "Trendy checkered shirt perfect for casual outings and semi-formal occasions.",
+        "images": [
+            "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/3/0363759247286_1.jpg?rnd=20200526195200&tr=w-720",
+            "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/3/0363759247286_2.jpg?rnd=20200526195200&tr=w-720",
+            "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/3/0363759247286_4.jpg?rnd=20200526195200&tr=w-720"
+        ],
+        "rating": 4.3,
+        "reviews": 94
+    },
+    {
+        "id": 5,
+        "name": "Cargo Pants",
+        "price": 1099,
+        "category": "cargos",
+        "description": "Durable Black cargo pants with multiple pockets for utility and style.",
+        "images": [
+            "https://www.italiancolony.com/cdn/shop/files/0A0A4211.jpg?v=1696577765&width=600",
+            "https://www.italiancolony.com/cdn/shop/files/0A0A4215.jpg?v=1696577759&width=600",
+            "https://www.italiancolony.com/cdn/shop/files/0A0A4215.jpg?v=1696577759&width=600"
+        ],
+        "rating": 4.1,
+        "reviews": 67
+    },
+    {
+        "id": 6,
+        "name": "Cotton Joggers",
+        "price": 699,
+        "category": "lowers",
+        "description": "Comfortable cotton joggers perfect for lounging or casual outings.",
+        "images": [
+            "https://wrogn.com/cdn/shop/files/1_79759255-31a7-444c-b0e4-120912535fae.jpg?v=1710417766",
+            "https://wrogn.com/cdn/shop/files/3_81148f92-d170-438f-b794-a298875d21f4.jpg?v=1710417766",
+            "https://wrogn.com/cdn/shop/files/5_d2721ce6-9a0e-40b6-be58-0ebb83392255.jpg?v=1710417766"
+        ],
+        "rating": 4.4,
+        "reviews": 112
+    },
+    {
+        "id": 7,
+        "name": "Graphic Print T-Shirt",
+        "price": 599,
+        "category": "t-shirts",
+        "description": "Cool graphic print t-shirt with unique artwork for a stylish look.",
+        "images": [
+            "https://assets.ajio.com/medias/sys_master/root/20230706/XPdB/64a6f249eebac147fc5a69e3/-473Wx593H-465975073-black-MODEL.jpg",
+            "https://assets.ajio.com/medias/sys_master/root/20230706/CRuh/64a6f152eebac147fc5a6323/-473Wx593H-465975073-black-MODEL6.jpg",
+            "https://assets.ajio.com/medias/sys_master/root/20230706/g5qx/64a6dcb7eebac147fc595de7/-473Wx593H-465975073-black-MODEL3.jpg"
+        ],
+        "rating": 4.6,
+        "reviews": 178
+    },
+    {
+        "id": 8,
+        "name": "Denim Jacket",
+        "price": 1499,
+        "category": "hoodies",
+        "description": "Classic denim jacket with a modern fit for a timeless look.",
+        "images": [
+            "https://www.jackjones.in/cdn/shop/files/139444109_g0.jpg?v=1745325998&width=600",
+            "https://www.jackjones.in/cdn/shop/files/139444109_g1.jpg?v=1745325998&width=600",
+            "https://www.jackjones.in/cdn/shop/files/139444109_g2.jpg?v=1745325999&width=600"
+        ],
+        "rating": 4.8,
+        "reviews": 203
+    }
+
+    
+]
